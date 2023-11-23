@@ -1,0 +1,9 @@
+# This file was automatically created by KIE Sandbox. Please don't modify it.
+name: Banco Santa Cruz
+iconUrl: https://github.com/jaimeizuz/empty-dmn-project/raw/main/banco-santa-cruz.PNG
+gitRepositoryUrl: https://github.com/jaimeizuz/empty-dmn-project
+gitRepositoryGitRef: main
+dmnDestinationFolder: src/main/resources/dmn
+bpmnDestinationFolder: src/main/resources/bpmn
+otherFilesDestinationFolder: src/main/resources/others
+appliedAt: '2023-11-23T19:38:27.907Z'
